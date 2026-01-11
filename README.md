@@ -49,6 +49,19 @@ Passionate about software engineering, data engineering, and infrastructure. Cur
     src="https://github-readme-stats.vercel.app/api?username=AUGUSTUS-IMPERATOR&show_icons=true&theme=github"
     alt="GitHub stats"
   />
+    <img
+    src="https://github-readme-stats.vercel.app/api?username=AUGUSTUS-IMPERATOR&show_icons=true&hide_border=true&count_private=true&theme=github&cache_seconds=1800"
+    alt="GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AUGUSTUS-IMPERATOR&layout=compact&hide_border=true&theme=github"
+    alt="Top Languages"
+    height="165"
+  />
+   <img
+    src="https://streak-stats.demolab.com?user=AUGUSTUS-IMPERATOR&hide_border=true&theme=github"
+    alt="GitHub Streak"
+  />
 </p>
-
 
