@@ -42,7 +42,7 @@ Passionate about software engineering, data engineering, and infrastructure. Cur
   <img src="./images/figma.svg" width="32"/>
 </p>
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 <p align="center">
   <img
@@ -63,5 +63,5 @@ Passionate about software engineering, data engineering, and infrastructure. Cur
     src="https://streak-stats.demolab.com?user=AUGUSTUS-IMPERATOR&hide_border=true&theme=github"
     alt="GitHub Streak"
   />
-</p>
+</p> -->
 
